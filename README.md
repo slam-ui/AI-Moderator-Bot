@@ -18,8 +18,8 @@
 
 1.  **Клонируйте репозиторий:**
     ```bash
-    git clone https://github.com/ВАШ_НИКНЕЙМ/ВАШ_РЕПОЗИТОРИЙ.git
-    cd ВАШ_РЕПОЗИТОРИЙ
+    git clone https://github.com/slam-ui/AI-Moderator-Bot.git
+    cd AI-Moderator-Bot
     ```
 
 2.  **Установите NVIDIA CUDA Toolkit:** Для работы с GPU необходим [CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit-archive) (рекомендуется версия 12.1).
