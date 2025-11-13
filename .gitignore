@@ -1,0 +1,28 @@
+# Виртуальное окружение
+.venv/
+venv/
+*.env
+
+# Файлы IDE (PyCharm, VSCode)
+.idea/
+.vscode/
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Файлы моделей AI (*.gguf, *.bin, etc.)
+# НЕ добавляем тяжелые файлы моделей в репозиторий!
+*.gguf
+*.bin
+*.pth
+*.safetensors
+
+# Лог-файлы
+*.log
+
+# Системные файлы Windows/macOS
+Thumbs.db
+.DS_Store
